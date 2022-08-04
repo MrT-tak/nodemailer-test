@@ -1,0 +1,22 @@
+{
+  "name": "nodemailer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://MrT-tk.github.io/nodemailer-test/doc"
+  },
+  "author": "MrT730",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrT-tak/nodemailer-test/issues"
+  },
+  "homepage": "https://github.com/MrT-tak/nodemailer-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
